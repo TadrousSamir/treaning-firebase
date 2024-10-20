@@ -163,7 +163,7 @@ class _UploadimageState extends State<Uploadimage> {
                           SnackBar(
                             backgroundColor: Colors.red,
                             content: Text("save faild :Chosse Image "),
-                            duration: Duration(seconds: 2),
+                            duration:  Duration(seconds: 2),
 
                           ),);
                       }
