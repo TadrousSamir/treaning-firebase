@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084563956261",
+    "project_id": "treaningfirebase",
+    "storage_bucket": "treaningfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084563956261:android:6c0b3b6c3e9c35df0a95cc",
+        "android_client_info": {
+          "package_name": "com.example.traningfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWMgVjWpdryaVyvIae3JbSXVFvJZ2ej84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
